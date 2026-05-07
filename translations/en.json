@@ -1,0 +1,45 @@
+{
+  // Options
+  "mimiiii.option.title": "<header>MimiBuff Settings</>",
+  "mimiiii.option.titlet": "This mod is a complete rebalance of the game from techs, to frames and item production.\n\nTo see settings, you need to start a game with the mod enabled.\nMultiplayer compatibility unknown at this time. Likely only the host will see and change settings.",
+  "mimiiii.option.languages": "<gl>Languages :</>",
+  "mimiiii.option.languagest": "Only <bl>English</> is officially translated.\n<rl>Important :</> This mod uses 'id' instead of 'string' for translation, meaning all languages use <bl>English</> text as default to avoid missing string !",
+  "mimiiii.option.content": "<gl>Content :</>",
+  "mimiiii.option.contentt": "- <bl>General</>, allows modifying of each section of the mod.\n- <bl>Additions</>, additional content not in base game (WIP)",
+  "mimiiii.option.warn": "<gl>Compatibility :</>",
+  "mimiiii.option.warnt": "<hl>This module is generally save safe and can be enabled, disabled, removed or added at any time.</>\n<hl>(Any added items / frames / techs will be removed by the game.)</>",
+
+
+  // UI
+  "mimiiii.ui.help": "- Each modules will start disabled.\n- Mouse hover over elements to see tooltips.\n- The button <gl>Apply Changes</> isn't required, it's just faster, if you don't use it then you must save and raload yourself to apply changes !\n- To add a translation, please refer to <gl>'MimiBuff/translations/en.json'</>.",
+  "mimiiii.ui.helpt": "Show mod infos.",
+  "mimiiii.ui.apply": "Apply Changes",
+  "mimiiii.ui.applyt": "Creates a temporary save (named <gl>'MimiBuff_TEMP') and loads it to apply the new settings.",
+  "mimiiii.ui.show_tooltip": "Show hidden addons",
+  "mimiiii.ui.hide_tooltip": "Hide unwanted addons",
+  "mimiiii.ui.setting_button": "Settings",
+  "mimiiii.ui.module_title": "<hl>%s Settings</>",
+  "mimiiii.ui.buttont": "%s\n<bl>[Default :</> <gl>%s</><bl>]</>",
+  "mimiiii.ui.slidert": "%s\n<bl>[Default :</> <gl>%s</><bl>] [Min :</> <gl>%s</><bl>] [Max :</> <gl>%s</><bl>]</>",
+  "mimiiii.ui.combot": "%s\n<bl>[Default :</> <gl>%s</><bl>]</>",
+
+
+  // MimiBuff
+  "mimiiii.mimibuff": "MimiBuff",
+  "mimiiii.mimibufft": "Global settings for MimiBuff",
+  "mimiiii.mimibuff.enable_research": "Enable Research Changes",
+  "mimiiii.mimibuff.enable_researcht": "If enabled, technology costs and research speeds will be modified based on mod logic.",
+  "mimiiii.mimibuff.enable_recipe_items": "Enable Recipe Item Multipliers",
+  "mimiiii.mimibuff.enable_recipe_itemst": "Toggle whether ingredient costs are multiplied by the slider value below.",
+  "mimiiii.mimibuff.enable_recipe_ticks": "Enable Production Speed Changes",
+  "mimiiii.mimibuff.enable_recipe_tickst": "Toggle whether the production time (ticks) is reduced by the divisor below.",
+  "mimiiii.mimibuff.time_divisor": "Production Time Divisor",
+  "mimiiii.mimibuff.time_divisort": "Divide the base production time by this value. Higher = Faster crafting.",
+  "mimiiii.mimibuff.item_multiplier": "Ingredient Multiplier",
+  "mimiiii.mimibuff.item_multipliert": "Multiply the required items for recipes by this value.",
+
+  "mimiiii.additions": "Additions",
+  "mimiiii.additionst": "Allows you to toggle various new additions that are added (WIP)",
+  "mimiiii.additions.WIP": "WIP",
+  "mimiiii.additions.WIPt": "This section is WIP"
+}
