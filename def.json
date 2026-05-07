@@ -4,7 +4,7 @@
   "version_name": "1.0",
   "version_code": 1.0,
   "author": "NaomiVR",
-  "homepage": "",
+  "homepage": "https://github.com/NaomiVR/Desynced-MimiBuff",
   "options": "options.lua",
   "description": "Make various togglable tweaks to the game with future additions coming.",
   "packages": {
